@@ -1,0 +1,268 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#white{
+    color: white;
+    padding: 0 100px 0 150px;
+    
+}
+
+.sm{
+    padding-left: 80px;
+}
+.sm a img{
+    margin:0 10px
+}
+.con{
+    display: inline-flex;
+    width: 100%;
+    background-color:rgb(70, 87, 180);
+    padding: 10px 0px;
+}
+
+.head{
+    color: grey;
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+    font-size: small;
+}
+
+.nav{
+    height: 70px;
+    display: inline-flex;
+    width: 100%;
+}
+
+.nav span ul li{
+    display: inline;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 10px 12px;
+    margin: 0;
+}
+
+.nav span ul{
+    padding-top: 10px;
+    padding-left: 230px;
+}
+
+.nav span img{
+    padding-left: 100px;
+}
+
+.nav span ul li:hover{
+    color: white;
+    background-color: rgb(70, 87, 180);
+    border-radius: 18px;
+}
+
+.mov{
+    background-color: rgb(70, 87, 180) ;
+    height: 25px;
+    margin: 10px 100px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.green{
+    color: rgb(59, 240, 59);
+}
+
+.text{
+    text-align: justify;
+    padding: 0 80px;
+    font-size: 103%;
+    color: rgb(114, 113, 113);
+    margin-bottom: 0;
+}
+
+.grey{
+    background-color: rgb(243, 245, 245);
+    padding: 50px 120px;
+}
+
+.grey h1{
+    text-align: center;
+}
+
+#intro{
+    text-align: center;
+    margin: 10px;
+}
+
+.green2{
+    color: forestgreen;
+}
+
+.blue{
+    color: royalblue;
+}
+
+.blue2{
+    background: royalblue;
+}
+
+.small{
+    font-size: small ;
+}
+
+.num{
+    font-size: 55px;
+}
+
+.icon{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    line-height: 2em;
+    height: 200px;
+}
+
+.blue2 table{
+    padding: 15px 90px;
+    border-spacing: 60px;
+}
+
+.menu p{
+    color: royalblue;
+    font-weight: bold;
+}
+
+.menu{
+    box-shadow: 0px 0px 15px 15px  rgba(117, 115, 115, 0.274);
+    width: 350px;
+    height: 150px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 15px;
+    margin: 10px 5px;
+    display: inline-block;
+}
+
+.mission{
+    border: 1px solid gray;
+    background-color: rgb(230, 240, 242);
+    width: 350px;
+    height: 70px;
+    margin: 10px 20px 10px 0px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+
+.mission tr td a{
+    text-decoration: none;
+    color: rgb(66, 87, 245);
+    font-weight: bold;
+    text-align: center;
+}
+
+.pic1{
+    position: relative;
+    right: 60px;
+    top: 6px;
+}
+
+
+.pic2{
+    position: relative;
+    right: 60px;
+    top: 6px;
+}
+
+.pic3{
+    position: relative;
+    right: 60px;
+    top: 6px;
+}
+
+.pic4{
+    position: relative;
+    right: 60px;
+    top: 6px;
+}
+
+#up{
+    margin-left: 80px;
+}
+
+#up div h1{
+    color: rgb(66, 87, 245);
+}
+
+#side div h1{
+    color: rgb(66, 87, 245);
+}
+
+#side table tr td{
+    color: grey;
+}
+
+#side table {
+    width: 240px;
+}
+
+.project{
+    display: inline-flex;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.headings{
+    text-align: center;
+    color: greenyellow;
+}
+
+#jpeg{
+    
+    margin: 20px 100px 20px 180px;
+    
+    
+}
+
+#foot{
+    background-color: rgb(32,32,32);
+    height: 300px;
+    color: gray;
+    
+}
+
+
+
+th{
+    color: white;
+    padding: 0px 270px 0px 0px;
+    
+    text-align: left;
+}
+
+#foot table{
+    width: 100%;
+   
+}
+
+
+
+#foot{
+    padding: 80px 30px 0px 30px;
+}
+
+#foot2 h4{
+    padding: 10px;
+    background-color: rgb(66, 87, 245);
+    color: white;
+    height:30px;
+    margin: 0;
+}
+
+
